@@ -1,6 +1,7 @@
-# ZyberPH Response Team Web Footprint
+# [VAPT] Webfootprint
 Analyze Built Technology and detecting open ports on the website.<br><br>
-<code>Author: John Paul Gaba</code>
+<code>ZYBERPH RESPONSE TEAM</code><br>
+<code>Author: Zoul</code>
 <hr>
 
 
